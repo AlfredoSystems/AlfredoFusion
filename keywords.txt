@@ -1,0 +1,66 @@
+#######################################
+# Syntax Coloring Map For AlfredoFusion
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AlfredoVQF	KEYWORD1
+AlfredoLSM6	KEYWORD1
+AlfredoH3LIS	KEYWORD1
+AlfredoMMC5983	KEYWORD1
+VQF	KEYWORD1
+VQFParams	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+configure	KEYWORD2
+available	KEYWORD2
+read	KEYWORD2
+readRaw	KEYWORD2
+readSingle	KEYWORD2
+readAcceleration	KEYWORD2
+readGyroscope	KEYWORD2
+readTemperature	KEYWORD2
+enableInterrupt	KEYWORD2
+disableInterrupt	KEYWORD2
+clearInterrupt	KEYWORD2
+isConnected	KEYWORD2
+softReset	KEYWORD2
+performSet	KEYWORD2
+performReset	KEYWORD2
+sampleRate	KEYWORD2
+whoAmI	KEYWORD2
+name	KEYWORD2
+
+update	KEYWORD2
+updateGyro	KEYWORD2
+updateAccel	KEYWORD2
+updateMag	KEYWORD2
+useMagnetometer	KEYWORD2
+getMeasuredSampleRate	KEYWORD2
+getQuaternion	KEYWORD2
+getYaw	KEYWORD2
+getPitch	KEYWORD2
+getRoll	KEYWORD2
+isResting	KEYWORD2
+getRestDeviations	KEYWORD2
+getGyroBias	KEYWORD2
+getGyroBiasSigma	KEYWORD2
+seedGyroBias	KEYWORD2
+setAccelCalibration	KEYWORD2
+setGyroScale	KEYWORD2
+getGyroScale	KEYWORD2
+reset	KEYWORD2
+setFlashNamespace	KEYWORD2
+loadCalibrationFromFlash	KEYWORD2
+saveAccelCalibrationToFlash	KEYWORD2
+saveGyroScaleToFlash	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

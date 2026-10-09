@@ -1,0 +1,4 @@
+.claude/
+
+# Arduino IDE / arduino-cli build output
+examples/**/build/
