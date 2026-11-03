@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1 - 2026-11-03
+
+### Changed
+
+- The maintainer field in library.properties no longer carries a personal email address.
+
+### Removed
+
+- keywords.txt (the Arduino IDE syntax highlighting map).
+
 ## 1.0 - 2026-10-09
 
 First release.
